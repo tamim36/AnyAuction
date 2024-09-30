@@ -37,6 +37,3 @@ catch (Exception e)
 }
 
 app.Run();
-
-//https://gale.udemy.com/course/build-a-microservices-app-with-dotnet-and-nextjs-from-scratch/
-// 13
